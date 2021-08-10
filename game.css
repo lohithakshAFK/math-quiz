@@ -1,7 +1,8 @@
 body
 {
-	background-image: url(math_background.jpg);
+	background:lightblue;
 }
+
 	.login_div1 , .login_div2
 	{
 		background: white;
